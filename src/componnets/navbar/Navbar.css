@@ -1,0 +1,42 @@
+.navbar{
+    /* margin-inline: 3%; */
+    padding: 13px;
+    box-shadow: 2px 2px 2px 2px rgb(190, 186, 186);
+    border-radius: 5px;
+    position: sticky;
+    top: 0;
+}
+.conatiner{
+    display: flex;
+}
+.search_container{
+    width: 240px;
+    
+    font-size: 18px;
+    padding: 8px 15px;
+    border-radius: 15px;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 30px;
+}
+.search_container >input{
+    border: transparent;
+    width: 86%;
+}
+.search_container >input::placeholder{
+    color: black;
+    font-size: 16px;
+}
+
+.buttons{
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* font-size: 18px; */
+}
+.buttons > select{
+    border: none;
+    background-color: transparent;
+}

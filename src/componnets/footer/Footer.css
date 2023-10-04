@@ -1,0 +1,13 @@
+.footer{
+    background-color:var(--mainColor);
+    padding: 13px;
+    box-shadow: -2px -2px 2px 2px rgb(190, 186, 186);
+    border-radius: 5px;
+}
+.page{
+    padding: 3px 10px;
+    background-color: var(--secondaryColor);
+    box-shadow: 2px 2px 2px 2px rgb(190, 186, 186);
+    border-radius: 5px;
+    cursor: pointer;
+}
