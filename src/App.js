@@ -7,7 +7,7 @@ import { Outlet } from "react-router-dom";
 function App() {
   return (
     <div className="App ms-5 me-5">
-      <Navbar/>
+      <Navbar />
       <Outlet />
       <Footer/>
     </div>
