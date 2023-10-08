@@ -136,7 +136,7 @@
         },
         {
             "carName": "BMW 2",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKy0qytkZRQcKtsifTlvtKjvBXqECxXUrfQOudW-lSB-hfFpHD97Z1pnJ50fYCDkNS-ak",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2JG8-DlNG7uv8a53MJT0VuqYJxrk2g-oSQw",
             "fuelType": "gasoline",
             "isautomatic": false,
             "year": "2021",
@@ -146,7 +146,7 @@
         },
         {
             "carName": "BMW 3",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdYaG7-jJG4MApz9v5g2m08nt1b4R6x84_y9XnZ7rsjLVMnHo4SUSqvb82BIDEONrSM68",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbOg5nu8CvKrV4Wohgcbsrr5hf8cq2XfdVhWYY_EoXkbk3EKbCHsD-2BPeCHhuP4RHHGw",
             "fuelType": "Petrol",
             "isautomatic": false,
             "year": "2017",
@@ -156,7 +156,7 @@
         },
         {
             "carName": "BMW 4",
-            "carImage": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Camry/6763/1606299064588/front-left-side-47.jpg",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAN4z6aJ-smlhER5JUW4eeaHzOvPe7xrAP7hAFnLA3_ioepuo11fZnVgfL9W-_IDxv4YY",
             "fuelType": "gasoline",
             "isautomatic": true,
             "year": "2021",
@@ -166,7 +166,7 @@
         },
         {
             "carName": "BMW 5",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4MAPeW4StR5CoQOSiCUaH1ZICkI5hO0M_xw",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3tMwEH5I7U62z0j-qt8cqAvlccu69m76wt5aAPbspvzmWtrkiDt2xhaRT9Wc9XmIpi3o",
             "fuelType": "Petrol",
             "isautomatic": true,
             "year": "2022",
@@ -176,8 +176,7 @@
         },
         {
             "carName": "BMW 6",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6qUxcuonM0tafwzVvmZnoTMLY3kLc0BA3A",
-            "fuelType": "gasoline",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOYOeiXRqimiiDwEKGg-qskVysnciWUmAld_5Svjrt5_JTsK8OeK5uP30ZZu6UHpefOQA",
             "isautomatic": false,
             "year": "2020",
             "mileage": "8",
@@ -188,7 +187,7 @@
     [
         {
             "carName": "Rolls Royce 1",
-            "carImage": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Camry/10926/1690544712715/front-left-side-47.jpg?tr=w-456",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfjv7fELuiCeJm5XiwZsmA0UzbVIP_vU5x4A",
             "fuelType": "Petrol",
             "isautomatic": true,
             "year": "2010",
@@ -198,7 +197,7 @@
         },
         {
             "carName": "Rolls Royce 2",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKy0qytkZRQcKtsifTlvtKjvBXqECxXUrfQOudW-lSB-hfFpHD97Z1pnJ50fYCDkNS-ak",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLksD2-nTtUgY4kdu3CYd7Jr9GeZ0nprIu2USMm8AzD2q1X2iIddbR5ZN1BsMZ3L7RaA",
             "fuelType": "gasoline",
             "isautomatic": false,
             "year": "2023",
@@ -208,7 +207,7 @@
         },
         {
             "carName": "Rolls Royce 3",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdYaG7-jJG4MApz9v5g2m08nt1b4R6x84_y9XnZ7rsjLVMnHo4SUSqvb82BIDEONrSM68",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8fel16LYyFtrkWtPjbejuh70w9e_7Ve7RF3EDBxe91UYDFDjdXQLsK2EH0bjkCfV2K04",
             "fuelType": "Petrol",
             "isautomatic": true,
             "year": "2015",
@@ -218,7 +217,7 @@
         },
         {
             "carName": "Rolls Royce 4",
-            "carImage": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Camry/6763/1606299064588/front-left-side-47.jpg",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGiyYk2_5lwclQZO8s0T4DWCYcSTDrxyezepnk1E2UF1k_tkFWJpCnxX7V8KvXsep6hnY",
             "fuelType": "gasoline",
             "isautomatic": false,
             "year": "2021",
@@ -228,7 +227,7 @@
         },
         {
             "carName": "Rolls Royce 5",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4MAPeW4StR5CoQOSiCUaH1ZICkI5hO0M_xw",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS26OgBSovJpGvTkekAwgVogNe0O3ewFTsfvQVOJnIdNOUW1tI0cHgCTSJooiLi-FMhtnw",
             "fuelType": "Petrol",
             "isautomatic": true,
             "year": "2012",
@@ -238,7 +237,7 @@
         },
         {
             "carName": "Rolls Royce 6",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6qUxcuonM0tafwzVvmZnoTMLY3kLc0BA3A",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtkYp8Vz9cD4leYm8_EXtsVGI-GZ4_bnX24wtYt_duTRdEb6cTSRbRQIAYOf2oyX_Qt_Y",
             "fuelType": "Petrol",
             "isautomatic": true,
             "year": "2019",
@@ -250,7 +249,7 @@
     [
         {
             "carName": "Mahindra 1",
-            "carImage": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Camry/10926/1690544712715/front-left-side-47.jpg?tr=w-456",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU45mh2K8qKueQo9TTOYKteK1EdQl7NbiD_Q",
             "fuelType": "gasoline",
             "isautomatic": true,
             "year": "2018",
@@ -260,7 +259,7 @@
         },
         {
             "carName": "Mahindra 2",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKy0qytkZRQcKtsifTlvtKjvBXqECxXUrfQOudW-lSB-hfFpHD97Z1pnJ50fYCDkNS-ak",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyVtfDy6WfN5OokCcQsqwqUXgh-j1yfELSIE2jaZUFfzT7SHWsmGL9FfGuarj7LLyoBXk",
             "fuelType": "Petrol",
             "isautomatic": false,
             "year": "2020",
@@ -270,7 +269,7 @@
         },
         {
             "carName": "Mahindra 3",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdYaG7-jJG4MApz9v5g2m08nt1b4R6x84_y9XnZ7rsjLVMnHo4SUSqvb82BIDEONrSM68",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi3sv7SNaqY8BkTmZQp7BNnsqRhqsDZ3-ApVj0rKEFUziPJVhk81Ra3fyN_AcnFRLjNoQ",
             "fuelType": "Petrol",
             "isautomatic": true,
             "year": "2015",
@@ -280,7 +279,7 @@
         },
         {
             "carName": "Mahindra 4",
-            "carImage": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Camry/6763/1606299064588/front-left-side-47.jpg",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWVG5qCYcSqgriphUE8htVv3b3yIp15u1_vw",
             "fuelType": "gasoline",
             "isautomatic": false,
             "year": "2024",
@@ -290,7 +289,7 @@
         },
         {
             "carName": "Mahindra 5",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4MAPeW4StR5CoQOSiCUaH1ZICkI5hO0M_xw",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGSu39irFNY7E9LxBJdOXNJwCD_cmMVNXi3A",
             "fuelType": "Petrol",
             "isautomatic": true,
             "year": "2022",
@@ -300,7 +299,7 @@
         },
         {
             "carName": "Mahindra 6",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6qUxcuonM0tafwzVvmZnoTMLY3kLc0BA3A",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV02Fwt7oRBa6AFDnbE7kehDmgaiRuU5yGWz4tF0n7B6p7K8giUUOOJT3qa5NhI5-d58g",
             "fuelType": "gasoline",
             "isautomatic": false,
             "year": "2010",
@@ -312,7 +311,7 @@
     [
         {
             "carName": "Maruti 1",
-            "carImage": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Camry/10926/1690544712715/front-left-side-47.jpg?tr=w-456",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz3TV1E_zdpHULaTu-J-lR_SEdGZ4-P0aNMb3QCcieUFJvFi_4AHvMTNUTSVjMDRNqemo",
             "fuelType": "gasoline",
             "isautomatic": true,
             "year": "2018",
@@ -322,7 +321,7 @@
         },
         {
             "carName": "Maruti 2",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKy0qytkZRQcKtsifTlvtKjvBXqECxXUrfQOudW-lSB-hfFpHD97Z1pnJ50fYCDkNS-ak",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6XOrxZJncYCs0TunGQFFrrt7NfgzqhhnTU_T9YhZOiKQG6rQpwuMzcs5DR2nMkcJMi1M",
             "fuelType": "gasoline",
             "isautomatic": false,
             "year": "2021",
@@ -342,7 +341,7 @@
         },
         {
             "carName": "Maruti 4",
-            "carImage": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Camry/6763/1606299064588/front-left-side-47.jpg",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyg5TDmlzUDNpOxpIMlE4tKiIQ-TsOzU9pUwt4NVAeBLyBY0ee1SHQ7WSD1CsgdwLbXyQ",
             "fuelType": "gasoline",
             "isautomatic": true,
             "year": "2021",
@@ -352,7 +351,7 @@
         },
         {
             "carName": "Maruti 5",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4MAPeW4StR5CoQOSiCUaH1ZICkI5hO0M_xw",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXIYihjsHJT3HzEgAr3WfOq3qmzGfquBHZGWIMn5wAfpxJcClU1K67APbkYE5uvSQtscU",
             "fuelType": "Petrol",
             "isautomatic": true,
             "year": "2022",
@@ -362,7 +361,7 @@
         },
         {
             "carName": "Maruti 6",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6qUxcuonM0tafwzVvmZnoTMLY3kLc0BA3A",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2peBxxDcNc5Suf_wPYqcOs9ze_laZg_3cXn5GOvycWLNvMiQipwAJZ1c4hEFiD8jYe9w&usqp=CAU",
             "fuelType": "gasoline",
             "isautomatic": false,
             "year": "2020",
@@ -374,7 +373,7 @@
     [
         {
             "carName": "Honda 1",
-            "carImage": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Camry/10926/1690544712715/front-left-side-47.jpg?tr=w-456",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMJC1Viyr9i9sDBcbIuucSiEzhh-y19lDhqg",
             "fuelType": "gasoline",
             "isautomatic": true,
             "year": "2018",
@@ -384,7 +383,7 @@
         },
         {
             "carName": "Honda 2",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKy0qytkZRQcKtsifTlvtKjvBXqECxXUrfQOudW-lSB-hfFpHD97Z1pnJ50fYCDkNS-ak",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPoux9jizcG7Kyyxbc6XJ4v40nV7u3Q5HARLG632LXoxOrKMgt-LZr3eH2WpnKuUv5-pU&usqp=CAU",
             "fuelType": "gasoline",
             "isautomatic": false,
             "year": "2021",
@@ -394,7 +393,7 @@
         },
         {
             "carName": "Honda 3",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdYaG7-jJG4MApz9v5g2m08nt1b4R6x84_y9XnZ7rsjLVMnHo4SUSqvb82BIDEONrSM68",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwAsOH6-_rxRx3uTKaPY7iA0Okkb2q6shJQbTufW8S_15dHYg1gAhl-6bUB84voXr1tLk&usqp=CAU",
             "fuelType": "Petrol",
             "isautomatic": false,
             "year": "2017",
@@ -404,7 +403,7 @@
         },
         {
             "carName": "Honda 4",
-            "carImage": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Camry/6763/1606299064588/front-left-side-47.jpg",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwYhjhbHLI2sahuzVch2-n3VRhYrCk-iEbQPaRTC2wvz70bh9565ZHHfcx0-V3Ma1XwtE&usqp=CAU",
             "fuelType": "gasoline",
             "isautomatic": true,
             "year": "2021",
@@ -414,7 +413,7 @@
         },
         {
             "carName": "Honda 5",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4MAPeW4StR5CoQOSiCUaH1ZICkI5hO0M_xw",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS6XJf_Cyg_Jf_n2KbtVWtKnP8sVrFFUKV6A",
             "fuelType": "Petrol",
             "isautomatic": true,
             "year": "2022",
@@ -424,7 +423,7 @@
         },
         {
             "carName": "Honda 6",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6qUxcuonM0tafwzVvmZnoTMLY3kLc0BA3A",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdRk_VJg3KeWX-o5rWZTu2js6dwShXBd5y-3AqINe5HMsTD1GGW2DjeLc40kGbDxbHzac&usqp=CAU",
             "fuelType": "gasoline",
             "isautomatic": false,
             "year": "2020",
@@ -436,7 +435,7 @@
     [
         {
             "carName": "Tesla 1",
-            "carImage": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Camry/10926/1690544712715/front-left-side-47.jpg?tr=w-456",
+            "carImage": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tesla/Model-X/5253/1611841733029/front-left-side-47.jpg",
             "fuelType": "gasoline",
             "isautomatic": true,
             "year": "2018",
@@ -446,7 +445,7 @@
         },
         {
             "carName": "Tesla 2",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKy0qytkZRQcKtsifTlvtKjvBXqECxXUrfQOudW-lSB-hfFpHD97Z1pnJ50fYCDkNS-ak",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_FHSIvrc7dBu-efBGvXxCXcOO74_BbdGNeMkjgvChNTLM5wSA4kAi39umZImSA7Nq_ew",
             "fuelType": "gasoline",
             "isautomatic": false,
             "year": "2021",
@@ -456,7 +455,7 @@
         },
         {
             "carName": "Tesla 3",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdYaG7-jJG4MApz9v5g2m08nt1b4R6x84_y9XnZ7rsjLVMnHo4SUSqvb82BIDEONrSM68",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjrl-zAX51wzir_jcFmQXyHBOg7zsQMCcbrd1FDKB9HGEb9edl9-LaAD_pJ4yqmK-hnSc&usqp=CAU",
             "fuelType": "Petrol",
             "isautomatic": false,
             "year": "2017",
@@ -466,7 +465,7 @@
         },
         {
             "carName": "Tesla 4",
-            "carImage": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Camry/6763/1606299064588/front-left-side-47.jpg",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMJfGvzYbs2wGrk5pCrtFTPjiTLhYVJ5GEEvqL1YSVqslYxrtg94DIlObxQmOmlAExIj8",
             "fuelType": "gasoline",
             "isautomatic": true,
             "year": "2021",
@@ -476,7 +475,7 @@
         },
         {
             "carName": "Tesla 5",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4MAPeW4StR5CoQOSiCUaH1ZICkI5hO0M_xw",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-J8GgFFdH3SSqdHA7YwZhlq8RYV4TlWLaAAKneuh6e_VVQyzahRByRdXLVxVlukUbisw&usqp=CAU",
             "fuelType": "Petrol",
             "isautomatic": true,
             "year": "2022",
@@ -486,7 +485,7 @@
         },
         {
             "carName": "Tesla 6",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6qUxcuonM0tafwzVvmZnoTMLY3kLc0BA3A",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOZz2_YpICAhxDitcYn_TqD5-VfU4YDbfaTgC7XgdK9mPzj4ivirLQUmUJlJv1jQStN2Q&usqp=CAU",
             "fuelType": "gasoline",
             "isautomatic": false,
             "year": "2020",
@@ -498,7 +497,7 @@
     [
         {
             "carName": "Buick 1",
-            "carImage": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Camry/10926/1690544712715/front-left-side-47.jpg?tr=w-456",
+            "carImage": "https://cdn-fastly.autoguide.com/media/2023/06/28/13154680/here-s-why-there-will-never-be-a-buick-avista-unless-china-wants-it.jpg?size=720x845&nocrop=1",
             "fuelType": "gasoline",
             "isautomatic": true,
             "year": "2018",
@@ -508,7 +507,7 @@
         },
         {
             "carName": "Buick 2",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKy0qytkZRQcKtsifTlvtKjvBXqECxXUrfQOudW-lSB-hfFpHD97Z1pnJ50fYCDkNS-ak",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZCaNg8GI-1JxhP3j3k9NeTtM33VA48eStuVyTB_C_D81sVHp1WwwwjqdhMJefHGWK294&usqp=CAU",
             "fuelType": "gasoline",
             "isautomatic": false,
             "year": "2021",
@@ -518,7 +517,7 @@
         },
         {
             "carName": "Buick 3",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdYaG7-jJG4MApz9v5g2m08nt1b4R6x84_y9XnZ7rsjLVMnHo4SUSqvb82BIDEONrSM68",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpN3SMvN6_Ntw0jq_qLmVNej8GdDnbDseKL5AxNSQajRF70SibH0h_UhgYYB7AoqnYe8&usqp=CAU",
             "fuelType": "Petrol",
             "isautomatic": false,
             "year": "2017",
@@ -528,7 +527,7 @@
         },
         {
             "carName": "Buick 4",
-            "carImage": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Camry/6763/1606299064588/front-left-side-47.jpg",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpW0DlmU83vgiIY0Yce20MAA0hkuMMLuf_0-Rr2KcKWj6KPJDpVdbQH3qPFMmzaYe3HKA&usqp=CAU",
             "fuelType": "gasoline",
             "isautomatic": true,
             "year": "2021",
@@ -538,7 +537,7 @@
         },
         {
             "carName": "Buick 5",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4MAPeW4StR5CoQOSiCUaH1ZICkI5hO0M_xw",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxbO5FXEfj_gmylBsPRn5wiVGhNSVc9v999EbHZ9Dun2-PwBghLnJuxEcwugAVrDV2dlM&usqp=CAU",
             "fuelType": "Petrol",
             "isautomatic": true,
             "year": "2022",
@@ -548,7 +547,7 @@
         },
         {
             "carName": "Buick 6",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6qUxcuonM0tafwzVvmZnoTMLY3kLc0BA3A",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPPEajELPxkr94nVFpnvdoYkBnib1vktyHMYxYbgohruxvXs9bknz7e3KJeSZbrsi6VCY&usqp=CAU",
             "fuelType": "gasoline",
             "isautomatic": false,
             "year": "2020",
@@ -560,7 +559,7 @@
     [
         {
             "carName": "Chrysler 1",
-            "carImage": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Camry/10926/1690544712715/front-left-side-47.jpg?tr=w-456",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfN12X65WkX0gnel4LuwaBI62ciQbOYdEePzeG_5zNLd-udF2uAsoeZg1aXlz5UONDMJw&usqp=CAU",
             "fuelType": "gasoline",
             "isautomatic": true,
             "year": "2018",
@@ -570,7 +569,7 @@
         },
         {
             "carName": "Chrysler 2",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKy0qytkZRQcKtsifTlvtKjvBXqECxXUrfQOudW-lSB-hfFpHD97Z1pnJ50fYCDkNS-ak",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfSLl51Lf8AWtDf6vkiRH49IPCmuWiAbla5ADeMu7w2YDWCfLeYDNCmUi9u1qaY-6I_L0&usqp=CAU",
             "fuelType": "gasoline",
             "isautomatic": false,
             "year": "2021",
@@ -580,7 +579,7 @@
         },
         {
             "carName": "Chrysler 3",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdYaG7-jJG4MApz9v5g2m08nt1b4R6x84_y9XnZ7rsjLVMnHo4SUSqvb82BIDEONrSM68",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOdGohF53poLrrAE5zRKwCIRh4ett4bBB472jz3Epnzmp6wDyRtYqDGdDUGoiDjYX_SIg&usqp=CAU",
             "fuelType": "Petrol",
             "isautomatic": false,
             "year": "2017",
@@ -590,7 +589,7 @@
         },
         {
             "carName": "Chrysler 4",
-            "carImage": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Camry/6763/1606299064588/front-left-side-47.jpg",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5mPEni6NxBfaiyVH61turyHsPWC1xyoyke3xUqRKW6xdnciP-8xb-MNFgd7BzitdfmWc&usqp=CAU",
             "fuelType": "gasoline",
             "isautomatic": true,
             "year": "2021",
@@ -600,7 +599,7 @@
         },
         {
             "carName": "Chrysler 5",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4MAPeW4StR5CoQOSiCUaH1ZICkI5hO0M_xw",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZQmnIB2eDKgLD3JxTuK06iArUcAKA6Fovc-neN_DhXd2QlrguQWYu-T2gzaYjDpoSe6c&usqp=CAU",
             "fuelType": "Petrol",
             "isautomatic": true,
             "year": "2022",
@@ -610,69 +609,7 @@
         },
         {
             "carName": "Chrysler 6",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6qUxcuonM0tafwzVvmZnoTMLY3kLc0BA3A",
-            "fuelType": "gasoline",
-            "isautomatic": false,
-            "year": "2020",
-            "mileage": "8",
-            "seats": "6",
-            "price": "230"
-        }
-    ],
-    [
-        {
-            "carName": "Nissan 1",
-            "carImage": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Camry/10926/1690544712715/front-left-side-47.jpg?tr=w-456",
-            "fuelType": "gasoline",
-            "isautomatic": true,
-            "year": "2018",
-            "mileage": "7",
-            "seats": "8",
-            "price": "630"
-        },
-        {
-            "carName": "Nissan 2",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKy0qytkZRQcKtsifTlvtKjvBXqECxXUrfQOudW-lSB-hfFpHD97Z1pnJ50fYCDkNS-ak",
-            "fuelType": "gasoline",
-            "isautomatic": false,
-            "year": "2021",
-            "mileage": "7",
-            "seats": "6",
-            "price": "780"
-        },
-        {
-            "carName": "Nissan 3",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdYaG7-jJG4MApz9v5g2m08nt1b4R6x84_y9XnZ7rsjLVMnHo4SUSqvb82BIDEONrSM68",
-            "fuelType": "Petrol",
-            "isautomatic": false,
-            "year": "2017",
-            "mileage": "7",
-            "seats": "4",
-            "price": "760"
-        },
-        {
-            "carName": "Nissan 4",
-            "carImage": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Camry/6763/1606299064588/front-left-side-47.jpg",
-            "fuelType": "gasoline",
-            "isautomatic": true,
-            "year": "2021",
-            "mileage": "7",
-            "seats": "6",
-            "price": "430"
-        },
-        {
-            "carName": "Nissan 5",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4MAPeW4StR5CoQOSiCUaH1ZICkI5hO0M_xw",
-            "fuelType": "Petrol",
-            "isautomatic": true,
-            "year": "2022",
-            "mileage": "7",
-            "seats": "4",
-            "price": "680"
-        },
-        {
-            "carName": "Nissan 6",
-            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6qUxcuonM0tafwzVvmZnoTMLY3kLc0BA3A",
+            "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE7yBU6xTxDL-187DusZIXmrYbnnr2RZJ22m9y6GqIjt8lqCGc2ThgW5IADsHS4QJBW1A&usqp=CAU",
             "fuelType": "gasoline",
             "isautomatic": false,
             "year": "2020",
