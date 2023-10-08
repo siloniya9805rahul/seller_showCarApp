@@ -1,5 +1,4 @@
 .navbar{
-    /* margin-inline: 3%; */
     padding: 13px;
     box-shadow: 2px 2px 2px 2px rgb(190, 186, 186);
     border-radius: 5px;
@@ -34,7 +33,6 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    /* font-size: 18px; */
 }
 .buttons > select{
     border: none;

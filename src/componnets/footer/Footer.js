@@ -29,7 +29,7 @@ const Footer = () => {
     <div className="footer">
       <div className="footer_container container max-w-[1160px] w-full flex justify-between items-center">
         <div className="car_range">
-          <span className="font-bold text-lg">6</span>/60
+          <span className="font-bold text-lg">{pageNumber}</span>/10
         </div>
         <div className="pagination flex items-center place-content-around w-96">
           <div

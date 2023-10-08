@@ -16,7 +16,7 @@ const Card = ({carImage,carName,fuelType,isautomatic,year,mileage,seats,price}) 
   };
 
   return (
-    <div className="card w-[30%] m-4 p-4 box-border rounded-lg  ">
+    <div className="card lg:w-[30%] md:w-[45%] w-full m-4 p-4 box-border rounded-lg  ">
       <div className="block relative h-56 rounded overflow-hidden">
         <img onClick={() => {
               handleSearch();

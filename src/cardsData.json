@@ -189,62 +189,62 @@
         {
             "carName": "Rolls Royce 1",
             "carImage": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Camry/10926/1690544712715/front-left-side-47.jpg?tr=w-456",
-            "fuelType": "gasoline",
+            "fuelType": "Petrol",
             "isautomatic": true,
-            "year": "2018",
-            "mileage": "7",
-            "seats": "8",
-            "price": "630"
+            "year": "2010",
+            "mileage": "17",
+            "seats": "4",
+            "price": "6667"
         },
         {
             "carName": "Rolls Royce 2",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKy0qytkZRQcKtsifTlvtKjvBXqECxXUrfQOudW-lSB-hfFpHD97Z1pnJ50fYCDkNS-ak",
             "fuelType": "gasoline",
             "isautomatic": false,
-            "year": "2021",
-            "mileage": "7",
+            "year": "2023",
+            "mileage": "12",
             "seats": "6",
-            "price": "780"
+            "price": "7844"
         },
         {
             "carName": "Rolls Royce 3",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdYaG7-jJG4MApz9v5g2m08nt1b4R6x84_y9XnZ7rsjLVMnHo4SUSqvb82BIDEONrSM68",
             "fuelType": "Petrol",
-            "isautomatic": false,
-            "year": "2017",
-            "mileage": "7",
-            "seats": "4",
-            "price": "760"
+            "isautomatic": true,
+            "year": "2015",
+            "mileage": "9",
+            "seats": "6",
+            "price": "7660"
         },
         {
             "carName": "Rolls Royce 4",
             "carImage": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Camry/6763/1606299064588/front-left-side-47.jpg",
             "fuelType": "gasoline",
-            "isautomatic": true,
+            "isautomatic": false,
             "year": "2021",
             "mileage": "7",
-            "seats": "6",
-            "price": "430"
+            "seats": "4",
+            "price": "4330"
         },
         {
             "carName": "Rolls Royce 5",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4MAPeW4StR5CoQOSiCUaH1ZICkI5hO0M_xw",
             "fuelType": "Petrol",
             "isautomatic": true,
-            "year": "2022",
-            "mileage": "7",
-            "seats": "4",
-            "price": "680"
+            "year": "2012",
+            "mileage": "10",
+            "seats": "6",
+            "price": "1680"
         },
         {
             "carName": "Rolls Royce 6",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6qUxcuonM0tafwzVvmZnoTMLY3kLc0BA3A",
-            "fuelType": "gasoline",
-            "isautomatic": false,
-            "year": "2020",
-            "mileage": "8",
-            "seats": "6",
-            "price": "230"
+            "fuelType": "Petrol",
+            "isautomatic": true,
+            "year": "2019",
+            "mileage": "12",
+            "seats": "4",
+            "price": "1230"
         }
     ],
     [
@@ -254,37 +254,37 @@
             "fuelType": "gasoline",
             "isautomatic": true,
             "year": "2018",
-            "mileage": "7",
-            "seats": "8",
-            "price": "630"
+            "mileage": "16",
+            "seats": "4",
+            "price": "1630"
         },
         {
             "carName": "Mahindra 2",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKy0qytkZRQcKtsifTlvtKjvBXqECxXUrfQOudW-lSB-hfFpHD97Z1pnJ50fYCDkNS-ak",
-            "fuelType": "gasoline",
+            "fuelType": "Petrol",
             "isautomatic": false,
-            "year": "2021",
-            "mileage": "7",
+            "year": "2020",
+            "mileage": "34",
             "seats": "6",
-            "price": "780"
+            "price": "2350"
         },
         {
             "carName": "Mahindra 3",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdYaG7-jJG4MApz9v5g2m08nt1b4R6x84_y9XnZ7rsjLVMnHo4SUSqvb82BIDEONrSM68",
             "fuelType": "Petrol",
-            "isautomatic": false,
-            "year": "2017",
-            "mileage": "7",
+            "isautomatic": true,
+            "year": "2015",
+            "mileage": "15",
             "seats": "4",
-            "price": "760"
+            "price": "860"
         },
         {
             "carName": "Mahindra 4",
             "carImage": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Camry/6763/1606299064588/front-left-side-47.jpg",
             "fuelType": "gasoline",
-            "isautomatic": true,
-            "year": "2021",
-            "mileage": "7",
+            "isautomatic": false,
+            "year": "2024",
+            "mileage": "18",
             "seats": "6",
             "price": "430"
         },
@@ -294,19 +294,19 @@
             "fuelType": "Petrol",
             "isautomatic": true,
             "year": "2022",
-            "mileage": "7",
+            "mileage": "27",
             "seats": "4",
-            "price": "680"
+            "price": "2680"
         },
         {
             "carName": "Mahindra 6",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6qUxcuonM0tafwzVvmZnoTMLY3kLc0BA3A",
             "fuelType": "gasoline",
             "isautomatic": false,
-            "year": "2020",
-            "mileage": "8",
+            "year": "2010",
+            "mileage": "24",
             "seats": "6",
-            "price": "230"
+            "price": "3230"
         }
     ],
     [

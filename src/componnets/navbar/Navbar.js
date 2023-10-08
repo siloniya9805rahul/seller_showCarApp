@@ -9,6 +9,8 @@ const Navbar = () => {
   const handleSearch = () => {
     const carname = searchBoxRef.current.value;
     const data = handleSearchCar(carname);
+    searchBoxRef.current.value = "";
+
     navigate("car_detail", { state: data });
   };
   return (
