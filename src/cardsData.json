@@ -313,41 +313,41 @@
             "carName": "Maruti 1",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz3TV1E_zdpHULaTu-J-lR_SEdGZ4-P0aNMb3QCcieUFJvFi_4AHvMTNUTSVjMDRNqemo",
             "fuelType": "gasoline",
-            "isautomatic": true,
-            "year": "2018",
+            "isautomatic": false,
+            "year": "2016",
             "mileage": "7",
-            "seats": "8",
-            "price": "630"
+            "seats": "4",
+            "price": "3630"
         },
         {
             "carName": "Maruti 2",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6XOrxZJncYCs0TunGQFFrrt7NfgzqhhnTU_T9YhZOiKQG6rQpwuMzcs5DR2nMkcJMi1M",
             "fuelType": "gasoline",
             "isautomatic": false,
-            "year": "2021",
-            "mileage": "7",
+            "year": "2020",
+            "mileage": "27",
             "seats": "6",
-            "price": "780"
+            "price": "580"
         },
         {
             "carName": "Maruti 3",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdYaG7-jJG4MApz9v5g2m08nt1b4R6x84_y9XnZ7rsjLVMnHo4SUSqvb82BIDEONrSM68",
             "fuelType": "Petrol",
-            "isautomatic": false,
-            "year": "2017",
-            "mileage": "7",
+            "isautomatic": true,
+            "year": "2016",
+            "mileage": "26",
             "seats": "4",
-            "price": "760"
+            "price": "1260"
         },
         {
             "carName": "Maruti 4",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyg5TDmlzUDNpOxpIMlE4tKiIQ-TsOzU9pUwt4NVAeBLyBY0ee1SHQ7WSD1CsgdwLbXyQ",
             "fuelType": "gasoline",
-            "isautomatic": true,
-            "year": "2021",
-            "mileage": "7",
+            "isautomatic": false,
+            "year": "2010",
+            "mileage": "23",
             "seats": "6",
-            "price": "430"
+            "price": "1230"
         },
         {
             "carName": "Maruti 5",
@@ -355,30 +355,30 @@
             "fuelType": "Petrol",
             "isautomatic": true,
             "year": "2022",
-            "mileage": "7",
+            "mileage": "29",
             "seats": "4",
-            "price": "680"
+            "price": "570"
         },
         {
             "carName": "Maruti 6",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2peBxxDcNc5Suf_wPYqcOs9ze_laZg_3cXn5GOvycWLNvMiQipwAJZ1c4hEFiD8jYe9w&usqp=CAU",
             "fuelType": "gasoline",
             "isautomatic": false,
-            "year": "2020",
-            "mileage": "8",
+            "year": "2012",
+            "mileage": "28",
             "seats": "6",
-            "price": "230"
+            "price": "3230"
         }
     ],
     [
         {
             "carName": "Honda 1",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMJC1Viyr9i9sDBcbIuucSiEzhh-y19lDhqg",
-            "fuelType": "gasoline",
-            "isautomatic": true,
-            "year": "2018",
-            "mileage": "7",
-            "seats": "8",
+            "fuelType": "Petrol",
+            "isautomatic": false,
+            "year": "2023",
+            "mileage": "25",
+            "seats": "4",
             "price": "630"
         },
         {
@@ -387,29 +387,29 @@
             "fuelType": "gasoline",
             "isautomatic": false,
             "year": "2021",
-            "mileage": "7",
+            "mileage": "14",
             "seats": "6",
-            "price": "780"
+            "price": "2380"
         },
         {
             "carName": "Honda 3",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwAsOH6-_rxRx3uTKaPY7iA0Okkb2q6shJQbTufW8S_15dHYg1gAhl-6bUB84voXr1tLk&usqp=CAU",
             "fuelType": "Petrol",
-            "isautomatic": false,
-            "year": "2017",
-            "mileage": "7",
+            "isautomatic": true,
+            "year": "2018",
+            "mileage": "22",
             "seats": "4",
-            "price": "760"
+            "price": "2360"
         },
         {
             "carName": "Honda 4",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwYhjhbHLI2sahuzVch2-n3VRhYrCk-iEbQPaRTC2wvz70bh9565ZHHfcx0-V3Ma1XwtE&usqp=CAU",
             "fuelType": "gasoline",
             "isautomatic": true,
-            "year": "2021",
-            "mileage": "7",
+            "year": "2020",
+            "mileage": "21",
             "seats": "6",
-            "price": "430"
+            "price": "4890"
         },
         {
             "carName": "Honda 5",
@@ -417,19 +417,19 @@
             "fuelType": "Petrol",
             "isautomatic": true,
             "year": "2022",
-            "mileage": "7",
-            "seats": "4",
-            "price": "680"
+            "mileage": "3",
+            "seats": "6",
+            "price": "1280"
         },
         {
             "carName": "Honda 6",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdRk_VJg3KeWX-o5rWZTu2js6dwShXBd5y-3AqINe5HMsTD1GGW2DjeLc40kGbDxbHzac&usqp=CAU",
             "fuelType": "gasoline",
-            "isautomatic": false,
-            "year": "2020",
-            "mileage": "8",
+            "isautomatic": true,
+            "year": "2014",
+            "mileage": "24",
             "seats": "6",
-            "price": "230"
+            "price": "1630"
         }
     ],
     [
@@ -439,59 +439,59 @@
             "fuelType": "gasoline",
             "isautomatic": true,
             "year": "2018",
-            "mileage": "7",
-            "seats": "8",
-            "price": "630"
+            "mileage": "11",
+            "seats": "4",
+            "price": "7640"
         },
         {
             "carName": "Tesla 2",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_FHSIvrc7dBu-efBGvXxCXcOO74_BbdGNeMkjgvChNTLM5wSA4kAi39umZImSA7Nq_ew",
-            "fuelType": "gasoline",
-            "isautomatic": false,
-            "year": "2021",
-            "mileage": "7",
+            "fuelType": "Petrol",
+            "isautomatic": true,
+            "year": "2023",
+            "mileage": "9",
             "seats": "6",
-            "price": "780"
+            "price": "1280"
         },
         {
             "carName": "Tesla 3",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjrl-zAX51wzir_jcFmQXyHBOg7zsQMCcbrd1FDKB9HGEb9edl9-LaAD_pJ4yqmK-hnSc&usqp=CAU",
             "fuelType": "Petrol",
             "isautomatic": false,
-            "year": "2017",
-            "mileage": "7",
+            "year": "2013",
+            "mileage": "37",
             "seats": "4",
-            "price": "760"
+            "price": "3760"
         },
         {
             "carName": "Tesla 4",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMJfGvzYbs2wGrk5pCrtFTPjiTLhYVJ5GEEvqL1YSVqslYxrtg94DIlObxQmOmlAExIj8",
             "fuelType": "gasoline",
-            "isautomatic": true,
-            "year": "2021",
-            "mileage": "7",
-            "seats": "6",
-            "price": "430"
+            "isautomatic": false,
+            "year": "2022",
+            "mileage": "15",
+            "seats": "4",
+            "price": "6550"
         },
         {
             "carName": "Tesla 5",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-J8GgFFdH3SSqdHA7YwZhlq8RYV4TlWLaAAKneuh6e_VVQyzahRByRdXLVxVlukUbisw&usqp=CAU",
             "fuelType": "Petrol",
-            "isautomatic": true,
-            "year": "2022",
-            "mileage": "7",
+            "isautomatic": false,
+            "year": "2019",
+            "mileage": "27",
             "seats": "4",
-            "price": "680"
+            "price": "2380"
         },
         {
             "carName": "Tesla 6",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOZz2_YpICAhxDitcYn_TqD5-VfU4YDbfaTgC7XgdK9mPzj4ivirLQUmUJlJv1jQStN2Q&usqp=CAU",
             "fuelType": "gasoline",
             "isautomatic": false,
-            "year": "2020",
-            "mileage": "8",
+            "year": "2019",
+            "mileage": "6",
             "seats": "6",
-            "price": "230"
+            "price": "1230"
         }
     ],
     [
@@ -499,7 +499,7 @@
             "carName": "Buick 1",
             "carImage": "https://cdn-fastly.autoguide.com/media/2023/06/28/13154680/here-s-why-there-will-never-be-a-buick-avista-unless-china-wants-it.jpg?size=720x845&nocrop=1",
             "fuelType": "gasoline",
-            "isautomatic": true,
+            "isautomatic": false,
             "year": "2018",
             "mileage": "7",
             "seats": "8",
@@ -508,32 +508,32 @@
         {
             "carName": "Buick 2",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZCaNg8GI-1JxhP3j3k9NeTtM33VA48eStuVyTB_C_D81sVHp1WwwwjqdhMJefHGWK294&usqp=CAU",
-            "fuelType": "gasoline",
-            "isautomatic": false,
-            "year": "2021",
-            "mileage": "7",
+            "fuelType": "Petrol",
+            "isautomatic": true,
+            "year": "2011",
+            "mileage": "23",
             "seats": "6",
-            "price": "780"
+            "price": "3480"
         },
         {
             "carName": "Buick 3",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpN3SMvN6_Ntw0jq_qLmVNej8GdDnbDseKL5AxNSQajRF70SibH0h_UhgYYB7AoqnYe8&usqp=CAU",
             "fuelType": "Petrol",
             "isautomatic": false,
-            "year": "2017",
-            "mileage": "7",
+            "year": "2007",
+            "mileage": "45",
             "seats": "4",
-            "price": "760"
+            "price": "7520"
         },
         {
             "carName": "Buick 4",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpW0DlmU83vgiIY0Yce20MAA0hkuMMLuf_0-Rr2KcKWj6KPJDpVdbQH3qPFMmzaYe3HKA&usqp=CAU",
             "fuelType": "gasoline",
-            "isautomatic": true,
+            "isautomatic": false,
             "year": "2021",
-            "mileage": "7",
+            "mileage": "12",
             "seats": "6",
-            "price": "430"
+            "price": "4330"
         },
         {
             "carName": "Buick 5",
@@ -541,81 +541,81 @@
             "fuelType": "Petrol",
             "isautomatic": true,
             "year": "2022",
-            "mileage": "7",
+            "mileage": "18",
             "seats": "4",
-            "price": "680"
+            "price": "6546"
         },
         {
             "carName": "Buick 6",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPPEajELPxkr94nVFpnvdoYkBnib1vktyHMYxYbgohruxvXs9bknz7e3KJeSZbrsi6VCY&usqp=CAU",
-            "fuelType": "gasoline",
+            "fuelType": "Petrol",
             "isautomatic": false,
-            "year": "2020",
-            "mileage": "8",
+            "year": "2010",
+            "mileage": "29",
             "seats": "6",
-            "price": "230"
+            "price": "7645"
         }
     ],
     [
         {
             "carName": "Chrysler 1",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfN12X65WkX0gnel4LuwaBI62ciQbOYdEePzeG_5zNLd-udF2uAsoeZg1aXlz5UONDMJw&usqp=CAU",
-            "fuelType": "gasoline",
+            "fuelType": "Petrol",
             "isautomatic": true,
-            "year": "2018",
-            "mileage": "7",
-            "seats": "8",
-            "price": "630"
+            "year": "2011",
+            "mileage": "45",
+            "seats": "30",
+            "price": "8560"
         },
         {
             "carName": "Chrysler 2",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfSLl51Lf8AWtDf6vkiRH49IPCmuWiAbla5ADeMu7w2YDWCfLeYDNCmUi9u1qaY-6I_L0&usqp=CAU",
             "fuelType": "gasoline",
             "isautomatic": false,
-            "year": "2021",
-            "mileage": "7",
+            "year": "2023",
+            "mileage": "9",
             "seats": "6",
-            "price": "780"
+            "price": "9680"
         },
         {
             "carName": "Chrysler 3",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOdGohF53poLrrAE5zRKwCIRh4ett4bBB472jz3Epnzmp6wDyRtYqDGdDUGoiDjYX_SIg&usqp=CAU",
             "fuelType": "Petrol",
             "isautomatic": false,
-            "year": "2017",
-            "mileage": "7",
+            "year": "2007",
+            "mileage": "37",
             "seats": "4",
-            "price": "760"
+            "price": "3460"
         },
         {
             "carName": "Chrysler 4",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5mPEni6NxBfaiyVH61turyHsPWC1xyoyke3xUqRKW6xdnciP-8xb-MNFgd7BzitdfmWc&usqp=CAU",
             "fuelType": "gasoline",
-            "isautomatic": true,
-            "year": "2021",
-            "mileage": "7",
+            "isautomatic": false,
+            "year": "2014",
+            "mileage": "14",
             "seats": "6",
-            "price": "430"
+            "price": "1330"
         },
         {
             "carName": "Chrysler 5",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZQmnIB2eDKgLD3JxTuK06iArUcAKA6Fovc-neN_DhXd2QlrguQWYu-T2gzaYjDpoSe6c&usqp=CAU",
             "fuelType": "Petrol",
             "isautomatic": true,
-            "year": "2022",
-            "mileage": "7",
+            "year": "2012",
+            "mileage": "24",
             "seats": "4",
-            "price": "680"
+            "price": "7450"
         },
         {
             "carName": "Chrysler 6",
             "carImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE7yBU6xTxDL-187DusZIXmrYbnnr2RZJ22m9y6GqIjt8lqCGc2ThgW5IADsHS4QJBW1A&usqp=CAU",
             "fuelType": "gasoline",
-            "isautomatic": false,
-            "year": "2020",
-            "mileage": "8",
+            "isautomatic": true,
+            "year": "2017",
+            "mileage": "14",
             "seats": "6",
-            "price": "230"
+            "price": "86765"
         }
     ]
 ]
